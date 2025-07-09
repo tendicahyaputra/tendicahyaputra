@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on @gunadarma
 - 🌱 I’m currently learning data science and machine learning
 
-😊😊😊😊
+
 
 ### Skill
 
