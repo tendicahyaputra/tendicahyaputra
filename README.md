@@ -1,5 +1,5 @@
 ### Yoo! 👋 Let's get started!
-Hi, I'm Tendi Cahya Putra, an Information Systems student at Gunadarma University who loves to explore📊✨ 
+Hi, I'm Tendi Cahya Putra an Information Systems student at Gunadarma University who loves to explore📊✨ 
 
 
 <!-- ![uhuy](img/github-header-image.png) -->
