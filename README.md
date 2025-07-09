@@ -1,5 +1,7 @@
 ### Yoo! 👋 Let's get started!
-<sub> Hi! I’m Tendi Cahya Putra a passionate Information Systems student at Gunadarma University with a big love for data! 📊✨ I'm especially interested in how data can tell powerful stories through processing and analysis and I’m always eager to learn more! </sub>
+Hi! I’m Tendi Cahya Putra a passionate Information Systems student at Gunadarma University with a big love for data! 📊✨ I'm especially interested in how data can tell powerful stories through processing and analysis and I’m always eager to learn more! 
+
+
 <!-- ![uhuy](img/github-header-image.png) -->
 <!--
 **tendicahyaputra/tendicahyaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,12 +58,9 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-### oi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tendicahyaputra/tendicahyaputra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tendicahyaputra/tendicahyaputra/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tendicahyaputra/tendicahyaputra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tendicahyaputra/tendicahyaputra/output/pacman-contribution-graph.svg">
 </picture>
 
